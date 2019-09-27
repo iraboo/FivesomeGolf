@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="grey1">#FBCDD6D6</color>
+    <color name="toggle_color">
+        <selector xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:state_checked="true" android:color="#070" />
+            <item android:color="#A00" />
+        </selector>
+    </color>
+
 </resources>

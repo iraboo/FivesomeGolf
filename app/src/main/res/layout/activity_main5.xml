@@ -10,7 +10,7 @@
         android:id="@+id/editText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/customerborder1"
+        android:background="@android:color/darker_gray"
         android:ems="10"
         android:inputType="numberSigned"
         android:singleLine="true"
